@@ -51,3 +51,4 @@ The busiest streets in the city and the most well-liked beginning points are sho
 
 ## Summary:
 
+After reviewing our analysis, it is clear that bike-sharing is highly common in NYC, but in order to operate in the same way in our city, more information and analysis of the locations where stations can be placed are required. Additionally, I would recommend modifying the current study to include street names and traffic data on the map in order to support our theory and perhaps even identify the most well-liked tourist attractions.
