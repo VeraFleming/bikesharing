@@ -27,19 +27,19 @@ The highest number of rents is 108 087 times for men and 33 326 times for women.
 
 4. The popular time for bike rentals usually during the weekdays from 7-9am and 5-7pm in NYC. 
 
-<img src= "Pictures/Story 4.png" width = "400"> 
+<img src= "Pictures/Story 4 .png" width = "600"> 
 
 Probably a lot of people in NYC ride bicycles to and from work. We must thus determine its level of popularity in our city.
 
 5. Gender breakdown for the most popular period to rent.
 
-<img src= "Pictures/Story 5.png" width = "600"> 
+<img src= "Pictures/Story 5 .png" width = "600"> 
 
 This image demonstrates that, despite the fact that men prefer to use bicycles more frequently than women, the popular time is the same for both sexes.
 
 6. Breakdown between customers per weekdays.
 
-<img src= "Pictures/Story 6.png" width = "600"> 
+<img src= "Pictures/Story 6 .png" width = "600"> 
 
 On a weekday, subscribers prefer to hire bikes more frequently, which supports our theory about using bikes. Additionally, we can see that non-subscribers rent more frequently on weekends, signaling that it is probably a tourist area. We must therefore take care to locate stations in well-known tourist destinations and significant historical sites.
 
