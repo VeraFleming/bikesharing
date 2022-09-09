@@ -7,6 +7,8 @@ So, this is the analysis of City Bike data for month of August 2019.
 
 ## Results:
 
+[link to dashboard](https://public.tableau.com/app/profile/vera.fleming/viz/NYCcitybikerentalschallenge/Challenge?publish=yes)
+
 1. The overall number of bike rentals in NYC in August was 2 344 224, with subscribers renting bikes 1 900 359 times (or 81%) and non-subscribers renting bikes 433 865 times.
 
 <img src= "Pictures/Story 1.png" width = "600"> 
